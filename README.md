@@ -19,7 +19,7 @@ The project involved:
 - Cleaning and transforming the data using Power Query Editor
 - Creating an interactive dashboard with filters, visualisations, and key insights for business decision-making.
 
- ![Dashboard Preview](Dashboard1.gif)  
+ 📽️ [Watch Dashboard Video](Dashboard.mp4)
 
 
 ## 🛠️ Skills Demonstrated
