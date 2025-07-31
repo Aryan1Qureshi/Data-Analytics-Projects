@@ -19,8 +19,7 @@ The project involved:
 - Cleaning and transforming the data using Power Query Editor
 - Creating an interactive dashboard with filters, visualisations, and key insights for business decision-making.
 
-📎 [Screenshot/Preview](link-to-image-if-you-upload-one)  
-📂 [Project Folder](./Sales-Revenue-Dashboard)
+ ![Dashboard Preview](Dashboard1.gif)  
 
 
 ## 🛠️ Skills Demonstrated
